@@ -2,6 +2,14 @@
 
 A new Flutter project.
 
+# CP110 - Desenvolvimento de Aplicações Mobile
+## AC1 - Avaliação Continuada 1
+
+Michel Micheloti							181003
+Paola Rodrigues Lopes        	180115
+
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
