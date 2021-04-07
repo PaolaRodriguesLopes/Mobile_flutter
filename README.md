@@ -10,7 +10,6 @@ Nosso projeto está sendo desenvolvido em Flutter, ele foi elaborado com o objet
 
 ### [Mockup](https://www.figma.com/proto/byqLRNwWAEgRcJRscGzJYY/Untitled?node-id=32%3A104&scaling=scale-down)
 
-### Status do Projeto
 <h4 align="center"> 
 	🚧  Flutter ... Em construção...  🚧
 </h4>
